@@ -52,9 +52,15 @@ Operations Teams
 Business Analysts
 
 To:
-
 Improve supplier efficiency
+
+
+
+
 Reduce shipment delays
 Optimize inventory levels
 Maximize profitability
+
+
+<img width="1441" height="811" alt="image" src="https://github.com/user-attachments/assets/b31923e5-c31e-47e6-bd48-2366ae333d81" />
 
