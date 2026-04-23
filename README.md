@@ -1,6 +1,11 @@
 # Sansung-Data-Analysis
 
-Power BI dashboard analyzing Samsung’s supply chain with insights on inventory, suppliers, shipments, delays, and revenue optimization
+📊 Overview
+
+This project presents an end-to-end Supply Chain Analytics Dashboard for Samsung, built using Power BI. It provides actionable insights across supplier performance, inventory management, shipment tracking, and delivery efficiency.
+
+The dashboard helps stakeholders monitor key metrics like revenue, profit, order quantity, delays, and inventory distribution for better decision-making.
+
 
 🚀 Key Features
 📈 Revenue & Profit Analysis
