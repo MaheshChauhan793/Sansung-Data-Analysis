@@ -1,4 +1,4 @@
-# Sansung-Data-Analysis
+# Samsung-Data-Analysis
 
 📊 Overview
 
